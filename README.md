@@ -1,4 +1,3 @@
-https://github.com/phisanurat/todo-web-app/issues/1#issue-578324422.jpg
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
