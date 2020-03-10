@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/42166625/76279633-d0d43600-62c1-11ea-9c6b-3345a0f52d38.png)
+![image](https://user-images.githubusercontent.com/42166625/76280557-da12d200-62c4-11ea-8eed-2fda514b3fc1.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
