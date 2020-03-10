@@ -1,0 +1,35 @@
+.font-1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.font-0 {
+    font-family: 'Kanit', sans-serif;
+}
+
+.font-3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.font-4 {
+    font-family: 'Caveat', cursive;
+    font-weight: bold;
+    font-size: 27px;
+}
+
+.font-2{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 22px;
+    font-weight: bold;
+}
+.font-sub{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 22px;
+    /*font-weight: bold;*/
+
+}
+.font-btn{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+    /*font-weight: bold;*/
+}
+
